@@ -1,5 +1,14 @@
 # Voice-Based-Email-for-Blind
 
+Installation:
+1. Install Speech Recognition
+2. Install smtplib
+3. Install email
+4. Install imaplib
+5. Install BeautifulSoup
+6. Install GTTS
+7. Install Os
+8. Install playsound
 
 This project aims to develop a voice based email system that would help visually impaired people to access email in a hassle free manner. Along with the blind, those who are illiterate can also benefit from this system.
 
